@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/chamaosamu/estudoCypress#readme",
   "devDependencies": {
-    "cypress": "^9.7.0"
+    "cypress": "^9.7.0",
+    "mochawesome": "^7.1.3"
   }
 }
